@@ -1,11 +1,11 @@
 @font-face {
     font-family: gillu;
-    src: url(/Gilroy-Medium.ttf);
+    src: url(/Gilroy-Medium.woff2);
 }
 
 @font-face {
     font-family: kaju;
-    src: url(/Kajiro\ Bold.ttf);
+    src: url(/Kajiro\ Bold.woff2);
 }
 
 * {
